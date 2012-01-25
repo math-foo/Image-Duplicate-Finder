@@ -1,0 +1,5 @@
+
+Image Duplicate Finder is exactly what it sounds like. If you have a large number of images some of which are duplciated or nearly duplicated (resizings, different shadings, minor cropping etc.), this will identify many of them. It has a fairly high false negative rate (i.e. it will miss some duplicates); but at the default level of sensitivity has not had an observed false positive (i.e. it has not identified two images are duplicates when they are not). If this happens to you, let me know!
+
+
+-- Caelyn McAulay, caelyn@ceruleanrodent.com, January 2012
